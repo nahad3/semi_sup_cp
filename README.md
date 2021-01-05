@@ -1,7 +1,7 @@
 # semi_sup_cp
-Semi-Supervised Sequence Classification through Change Point Detectio
+Semi-Supervised Sequence Classification through Change Point Detection
 
-This repository contains code for "Semi-supervised sequence classification through Change Point Detection"
+This repository contains code for "Semi-supervised sequence classification through Change Point Detection", AAAI 2021
 
 
 Requirements
