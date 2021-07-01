@@ -16,3 +16,9 @@ Requirements
 The main.py script is used to train neural networks to obtain representations through sim/dissim pairs from change point detection.
 
 The detect_cp folder contains the script run_cp.py which is used to detect change points. The script outputs similar dissimilar pairs which are used by main.py
+
+
+
+Datafiles for this code can be donwloaded from:
+
+https://www.dropbox.com/s/a6035sz2wdowkas/semi_sup_cp_datafiles.zip?dl=0
